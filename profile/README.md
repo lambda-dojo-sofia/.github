@@ -7,3 +7,5 @@ The meetings will follow a semi standard, but informal format: we'll share stori
 ## [View our efforts for all past meetings][repo]
 
 [repo]: https://github.com/lambda-dojo-sofia/all-the-things
+
+<p align="center"><a href="https://github.com/lambda-dojo-sofia/all-the-things"><img src="https://github.com/user-attachments/assets/66f18fcc-2dc3-4345-8861-a823c076c524" width="640"></a></p>
